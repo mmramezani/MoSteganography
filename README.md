@@ -2,7 +2,7 @@
 
 A simple yet powerful Windows Forms application (built in **.NET 8**) that allows users to hide secret text messages inside images (steganography) and later extract them. This project is ideal for learning how to embed payload data in image files using the Least Significant Bit (LSB) technique.
 
-![MoSteganography Screenshot](docs/mosteganography-screenshot.png "Main Form Screenshot")
+![MoSteganography Screenshot](assets/mosteganography-screenshot.png "Main Form Screenshot")
 
 > **Note**: The screenshot above is a placeholder. Replace it with one of your own if desired.
 
