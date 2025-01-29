@@ -51,7 +51,7 @@
             button1.Name = "button1";
             button1.Size = new Size(391, 53);
             button1.TabIndex = 0;
-            button1.Text = "Load Image";
+            button1.Text = "Load Image (1)";
             button1.UseVisualStyleBackColor = true;
             button1.Click += btnLoadImage_Click;
             // 
@@ -93,7 +93,7 @@
             btnHideText.Name = "btnHideText";
             btnHideText.Size = new Size(141, 44);
             btnHideText.TabIndex = 5;
-            btnHideText.Text = "Inject Text";
+            btnHideText.Text = "Inject Text (2)";
             btnHideText.UseVisualStyleBackColor = true;
             btnHideText.Click += btnHideText_Click;
             // 
@@ -103,7 +103,7 @@
             btnSaveStego.Name = "btnSaveStego";
             btnSaveStego.Size = new Size(136, 44);
             btnSaveStego.TabIndex = 6;
-            btnSaveStego.Text = "Save Stego";
+            btnSaveStego.Text = "Save Stego (3)";
             btnSaveStego.UseVisualStyleBackColor = true;
             btnSaveStego.Click += btnSaveStego_Click;
             // 
@@ -113,7 +113,7 @@
             btnExtractText.Name = "btnExtractText";
             btnExtractText.Size = new Size(161, 45);
             btnExtractText.TabIndex = 7;
-            btnExtractText.Text = "Extract Text";
+            btnExtractText.Text = "Extract Text (2)";
             btnExtractText.UseVisualStyleBackColor = true;
             btnExtractText.Click += btnExtractText_Click;
             // 
@@ -123,7 +123,7 @@
             btnLoadStegoImage.Name = "btnLoadStegoImage";
             btnLoadStegoImage.Size = new Size(190, 45);
             btnLoadStegoImage.TabIndex = 8;
-            btnLoadStegoImage.Text = "Load Stego Image";
+            btnLoadStegoImage.Text = "Load Stego Image (1)";
             btnLoadStegoImage.UseVisualStyleBackColor = true;
             btnLoadStegoImage.Click += btnLoadStegoImage_Click;
             // 
