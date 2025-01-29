@@ -70,10 +70,6 @@ MoSteganographyProject/
 
 ### Installation
 1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/<your-username>/MoSteganographyProject.git
-   cd MoSteganographyProject
-   ```
 
 2. **Open the Solution**  
    - Open `MoSteganographyProject.sln` in Visual Studio **OR**  
